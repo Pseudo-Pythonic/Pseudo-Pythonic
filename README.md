@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with ...nothing for now!!
 - 💬 Ask me about ...tech and programming related stuff
 - 📫 How to reach me: ...pseudopythonic@gmail.com
-- ⚡ Fun fact: ...I am a neuron-damaged guy!!
