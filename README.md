@@ -6,20 +6,23 @@
 - 🤔 I’m looking for help with nothing for now!!
 - 💬 Ask me about pyDev and web dev stuffs
 - 📫 How to reach me: [Email Me](mailto:pseudopythonic@gmail.com) or [My Instagram](https://www.instagram.com/pseudopythonic)
-- Funfact: My username has Python within it but I also know languages other than Python!
+- 😆 Funfact: My username has Python within it but I also know languages other than Python!
 
-## My Skills and Tools :
+## My Skills :
   - Python
   - Basics of C++
   - HTML%, CSS3, VanillaJS
   - P5.JS
   - Git and GitHub CLI
   - Java
-  - Modern ES6
+  - Modern ES6 and ES7
   - ReactJS
-  - OSs I have worked in : Windows and Linux
-  - Microsoft Office
+  - React Native
   - Figma
-  - And many more to added!!
+ 
+## My Tools :
+  - OSs I have currently work in : Windows and Debian Linux
+  - Microsoft Office
+  - IDEs used till date: Visual Studio Code & PyCharm
 
 Follow me to get more projects on Python Stuff and Web Development Stuffs!!
