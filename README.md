@@ -1,4 +1,4 @@
-# Hi there This is Pseudo-Pythoner Here!!👋
+# Hi there This is Pseudo-Pythoneer Here!!👋
 
 - 🔭 I’m currently working on my [P.A.](https://github.com/Pseudo-Pythonic/Sara-Personal-Assistant)
 - 🌱 I’m currently learning React-Native and Next.JS
