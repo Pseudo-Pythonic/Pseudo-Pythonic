@@ -11,7 +11,7 @@
 ## My Skills :
   - Python
   - Basics of C++
-  - HTML%, CSS3, VanillaJS
+  - HTML5, CSS3, VanillaJS
   - P5.JS
   - Git and GitHub CLI
   - Java
