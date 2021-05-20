@@ -5,10 +5,10 @@
 - 👯 I’m looking for someone to collaborate on Python and Front-End Development
 - 🤔 I’m looking for help with nothing for now!!
 - 💬 Ask me about pyDev and web dev stuffs
-- 📫 How to reach me: [Email Me](mailto:pseudopythonic@gmail.com) or [My Instagram](https://www.instagram.com/pseudopythonic)
+- 📫 How to reach me: [✉️E-mail ME](mailto:pseudopythonic@gmail.com) or [📷My Instagram](https://www.instagram.com/pseudopythonic)
 - 😆 Funfact: My username has Python within it but I also know languages other than Python!
 
-## My Skills :
+## My Skills🛠️ :
   - Python
   - Basics of C++
   - HTML5, CSS3, VanillaJS
@@ -20,9 +20,9 @@
   - React Native
   - Figma
  
-## My Tools :
+## My Tools🧰 :
   - OSs I have currently work in : Windows and Debian Linux
   - Microsoft Office
   - IDEs used till date: Visual Studio Code & PyCharm
 
-Follow me to get more projects on Python Stuff and Web Development Stuffs!!
+➡️Follow me to get more projects on Python Stuff and Web Development Stuffs!!
