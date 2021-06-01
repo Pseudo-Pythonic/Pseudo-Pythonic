@@ -1,7 +1,7 @@
 # Hi there This is Pseudo-Pythoneer Here!!👋
 
 - 🔭 I’m currently working on my [P.A.](https://github.com/Pseudo-Pythonic/Sara-Personal-Assistant)
-- 🌱 I’m currently learning React-Native and Next.JS
+- 🌱 I’m currently learning React-Native, Next.JS and Game Development!
 - 👯 I’m looking for someone to collaborate on Python and Front-End Development
 - 🤔 I’m looking for help with nothing for now!!
 - 💬 Ask me about pyDev and web dev stuffs
