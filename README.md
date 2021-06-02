@@ -10,19 +10,18 @@
 
 ## My Skills🛠️ :
   - Python
-  - Basics of C++
   - HTML5, CSS3, VanillaJS
   - P5.JS
   - Git and GitHub CLI
   - Java
   - Modern ES6 and ES7
   - ReactJS
-  - React Native
-  - Figma
+  - Basics of React Native
  
 ## My Tools🧰 :
   - OSs I have currently work in : Windows and Debian Linux
   - Microsoft Office
   - IDEs used till date: Visual Studio Code & PyCharm
+  - Figma & Dribbble
 
 ➡️Follow me to get more projects on Python Stuff and Web Development Stuffs!!
