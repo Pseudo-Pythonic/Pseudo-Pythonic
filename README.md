@@ -8,7 +8,11 @@
 - 📫 How to reach me: [✉️E-mail ME](mailto:pseudopythonic@gmail.com) or [📷My Instagram](https://www.instagram.com/pseudopythonic)
 - 😆 Funfact: My username has Python within it but I also know languages other than Python!
 
+## My Stats📊
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pseudo-Pythonic&show_icons=true&theme=cobalt" />
+
 ## My Skills🛠️ :
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Pseudo-Pythonic&layout=compact&theme=cobalt" />
   - Python
   - HTML5, CSS3, VanillaJS
   - P5.JS
