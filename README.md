@@ -11,18 +11,19 @@
 ## My Stats📊
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pseudo-Pythonic&show_icons=true&theme=cobalt" />
 
-## My Skills🛠️ :
+## My Skills🛠️
+- Python
+- HTML5, CSS3, VanillaJS
+- P5.JS
+- Git and GitHub CLI
+- Java
+- Modern ES6 and ES7
+- ReactJS
+- Basics of React Native
+
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Pseudo-Pythonic&layout=compact&theme=cobalt" />
-  - Python
-  - HTML5, CSS3, VanillaJS
-  - P5.JS
-  - Git and GitHub CLI
-  - Java
-  - Modern ES6 and ES7
-  - ReactJS
-  - Basics of React Native
  
-## My Tools🧰 :
+## My Tools🧰
   - OSs I have currently work in : Windows and Debian Linux
   - Microsoft Office
   - IDEs used till date: Visual Studio Code & PyCharm
