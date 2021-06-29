@@ -1,4 +1,4 @@
-## Hello <World />👋
+## `Hello World👋`
 
 - 🔭 I’m currently working on my [P.A.](https://github.com/Pseudo-Pythonic/Sara-Personal-Assistant)
 - 🌱 I’m currently learning React-Native, Next.JS and Arduino
@@ -8,10 +8,10 @@
 - 📫 How to reach me: [✉️E-mail ME](mailto:pseudopythonic@gmail.com) or [📷My Instagram](https://www.instagram.com/pseudopythonic)
 - 😆 Funfact: My username has Python within it but I also know languages other than Python!
 
-## My Stats📊
+### `My Stats📊`
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pseudo-Pythonic&show_icons=true&theme=cobalt" />
 
-## My Skills🛠️
+### `My Skills🛠️`
 - Python
 - HTML5, CSS3, VanillaJS
 - P5.JS
@@ -23,7 +23,7 @@
 
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Pseudo-Pythonic&layout=compact&theme=cobalt" />
  
-## My Tools🧰
+### `My Tools🧰`
   - OSs I have currently work in : Windows and Debian Linux
   - Microsoft Office
   - IDEs used till date: Visual Studio Code & PyCharm
